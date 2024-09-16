@@ -1,9 +1,9 @@
-<h1>Hi, I'm Tom! <br/><a href="https://github.com/joshmadakor1">PACS Admin</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> IT and Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Tom! <br/> <a href="https://github.com/Tommyttvo">PACS Admin</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> IT and Cybersecurity Professional</a>, </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Azure/Cloud Project </b>
-  - [Creating a Live SOC/Honeynet in Azure] (https://github.com/Tommyttvo/Azure-Cloud-Soc)
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/Tommyttvo/Azure-Cloud-Soc)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
